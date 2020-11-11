@@ -1,0 +1,189 @@
+body {
+  font-family: sans-serif;
+  background-image: url('http://beastmotivation.com/file/2015/11/Grey-Gradient-Background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;    
+  margin: 0;
+  height: auto;   
+}
+.jumbotron {
+    display: flex;
+    align-items: center;
+    height: 250px;
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+.jumbotron {
+    background-image: url('Liftalot.jpg')
+}
+.jumbotron {
+    background-size: cover;
+}
+
+ul {
+    text-decoration: none;
+	text-align: center;
+}
+ul {
+	margin-top:0px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size:16px;
+}
+ul li {
+    float: left;
+	width:25%;
+    background-color: #333;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 5px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+	text-decoration:none;
+	color: white;
+}
+
+.galerie {
+    height: auto;
+}
+
+#titlu{
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+    color: #1a1a1a;
+}
+#text{
+    color: #404040;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 160%;
+    margin-bottom: 1.3%;
+}
+.pic-1 {
+    height: 300px;
+    width: 500px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    float:left;
+    object-fit: cover;
+}
+#articol-1 {
+    margin: 3px;
+    border-top: 0.1px solid grey;
+    border-bottom: 0.1px solid grey;
+    padding: 5px;
+    background-size:cover;
+    line-height: 180%;
+}
+#articol-1:hover{
+    border-top: 0.1px solid black;
+    border-bottom: 0.1px solid black;
+}
+#articol-1:active {
+    border-top: 0.1px solid blue;
+    border-bottom: 0.1px solid blue;
+}
+
+#ny1 {
+    display: flex;
+    text-align: center;
+    width:100%;
+    height: 300px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    margin-bottom: 20px;
+    background-size: cover;
+    border-radius: 10px;
+}
+#ny1 {
+    background-image:url('ny1.jpg')
+}
+#wso1 {
+    display: flex;
+    text-align: center;
+    width:100%;
+    height: 500px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    margin-bottom: 20px;
+    background-size: cover;
+    border-radius: 10px;
+}
+#wso1 {
+    background-image:url('wso1.jpg');
+}
+#pas1 {
+    display: flex;
+    text-align: center;
+    width:100%;
+    height: 400px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    margin-bottom: 20px;
+    background-size: cover;
+    border-radius: 10px;
+}
+#pas1 {
+    background-image:url('pas1.jpg');
+}
+#sbm1 {
+    display: flex;
+    text-align: center;
+    width:100%;
+    height: 200px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    margin-bottom: 20px;
+    background-size: cover;
+    border-radius: 10px;
+}
+#sbm1 {
+    background-image:url('sbm1.jpg');
+}
+#sbm2 {
+    display: flex;
+    text-align: center;
+    width:100%;
+    height: 500px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    margin-bottom: 20px;
+    background-size: cover;
+    border-radius: 10px;
+}
+#sbm2 {
+    background-image:url('sbm2.jpg');
+}
+#bdv1 {
+    display: flex;
+    text-align: center;
+    width:100%;
+    height: 500px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    margin-bottom: 20px;
+    background-size: cover;
+    border-radius: 10px;
+}
+#bdv1 {
+    background-image:url('bdv1.jpg');
+}
+
+
+#footer{
+    background-color:#333;
+    margin-top: 10%;
+    height: 40px;
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+#footer1{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+    
+}
